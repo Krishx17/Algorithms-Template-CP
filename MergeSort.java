@@ -46,10 +46,8 @@ public class MergeSort {
 
     divide(arr, 0, n-1);
     //print
-    for(int i = 0; i < n; i++) {
-        System.out.print(arr[i]+" ");
-    
-        }
-        System.out.println();
+
+    for(int element : arr)
+        System.out.print(element + " ");
     }
 }
