@@ -1,4 +1,3 @@
-package HackerRankProblemSolutions;
 
 public class MergeSort {
     public static void conquer(int arr[], int si, int mid, int ei){
