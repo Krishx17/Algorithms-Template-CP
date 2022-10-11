@@ -1,4 +1,4 @@
-package HackerRankProblemSolutions;
+
 public class QuickSortAlgorithm extends QuickSort1{
     static void swap(int[] arr, int i, int j){
         int temp = arr[i];

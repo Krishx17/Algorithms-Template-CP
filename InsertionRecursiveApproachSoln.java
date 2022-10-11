@@ -1,4 +1,3 @@
-package HackerRankProblemSolutions;
 
 public class InsertionRecursiveApproachSoln{
     public static void main(String args[]){

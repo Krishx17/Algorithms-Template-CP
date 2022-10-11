@@ -1,4 +1,3 @@
-package HackerRankProblemSolutions;
 import java.util.*;
 public class InsertionSort2{
     public static void main(String args[]){
